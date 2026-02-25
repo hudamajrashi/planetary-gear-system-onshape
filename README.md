@@ -64,3 +64,9 @@ The gear ratio and geometry were selected to ensure proper planetary motion and 
 ## Technical Drawing Reference
 ![Measurement Drawing](images/planetary-gear-measurement.png)
 
+---
+
+## Onshape CAD Model
+View the complete model here:  
+👉 https://cad.onshape.com/documents/58096deb8acbdbfe8d8e64c8/w/2242b79e3a718b2cc4543034/e/5b9f1edb4653c25ad6e0618d
+
